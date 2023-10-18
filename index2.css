@@ -1,0 +1,15 @@
+body{
+background-color: rgb(231, 231, 226);
+}
+.link>button{
+    width: 90px;
+    padding: 5px;
+    background-color: aqua;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;   
+}
+.link>button:hover{
+    background-color: blanchedalmond;
+    transition: 0.5s;
+}
